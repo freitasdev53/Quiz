@@ -1,0 +1,37 @@
+*{
+    margin:0;
+    padding:0;
+    list-style:none;
+    text-decoration:none;
+    font-family:Arial, Helvetica, sans-serif;
+    overflow:hidden;
+}
+h1{
+    text-align:center;
+    margin:10px;
+}
+.pergunta{
+    display:flex;
+    flex-direction:column;
+    margin:10px;
+}
+form{
+    text-align:center;
+    background:rgba(10,100,20,0.5);
+    padding:25px;
+}
+input[type='submit']{
+    padding:5px;
+    width:100px;
+}
+h1{
+    color:white;
+    background:black;
+    margin:0;
+}
+footer{
+    background:black;
+    color:white;
+    padding:7px;
+    margin:0;
+}
